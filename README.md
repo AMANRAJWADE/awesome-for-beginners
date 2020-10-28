@@ -15,7 +15,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## Table of Contents:
 
 - [.NET](#net)
-- [C](#c)
+- [C]
 - [C#](#c-1)
 - [C++](#c-2)
 - [Clojure](#clojure)
